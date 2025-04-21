@@ -1,4 +1,4 @@
-# 🧠 LangChain & LangGraph Docs Practice
+## 🧠 LangChain & LangGraph Docs Practice
 
 This repository is dedicated to hands-on practice and implementation of the entire [LangChain](https://docs.langchain.com/docs/) and [LangGraph](https://docs.langchain.com/langgraph/) documentation.
 
